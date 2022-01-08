@@ -4,5 +4,6 @@ instructions:
 
  - npm install
  - npm run dev
- - first open http://localhost:3000
  - then open http://localhost:3000/server-route
+   - ![screenshot](https://user-images.githubusercontent.com/552629/148643158-5a285222-a7af-415a-8311-c2266322e70e.png) 
+
