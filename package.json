@@ -14,6 +14,7 @@
   },
   "type": "module",
   "dependencies": {
+    "sequelize": "^6.12.5",
     "sqlite3": "^5.0.2"
   }
 }
